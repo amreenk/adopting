@@ -8,5 +8,20 @@ body {
 	background: url("https://images.unsplash.com/photo-1470116945706-e6bf5d5a53ca?dpr=1&auto=format&fit=crop&w=1500&h=1125&q=80&cs=tinysrgb&crop=");
 	background-position: center;
 	font-family: "Chewy";
-	color: grey;
+	color: rgba(255, 255, 255,0.5);
+}
+
+#content {
+	text-align: center;
+	padding: 25%;
+}
+
+h1 {
+	font-weight: 600;
+	font-size: 5em;
+}
+
+hr {
+	width: 500px;
+	border: 1px dashed grey;
 }
